@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋 I'm Harsha Vardhan 🚀
 
-<!--
-**Harshavardhan-45/Harshavardhan-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Check out my work and feel free to collaborate! 😎
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interests: Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.
+
+🌱 Currently Learning: Full-Stack Web Development & DSA with Java.
+
+ 💡 Collaborating On: Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!
+
+## 📫 How to Reach Me:
+
+LinkedIn: (www.linkedin.com/in/harshavardhan-narlakanti)
+
+Email: harshanarlakanti80963@gmail.com
+
+😄 Pronouns: He/Him
